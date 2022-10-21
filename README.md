@@ -2,7 +2,6 @@
 
 The API was made to answer specific questions and perform certain tasks. It has endpoints to meet those requirements as well as endpoints that were generated thanks to .NET EF scaffolds. Those other endpoints are still in the code even though they were not a part of the requirements as they might still come in handy later.
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1ea9083c73ae0762bfd1)
 
 ## Required Endpoints
 
